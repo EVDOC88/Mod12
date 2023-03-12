@@ -58,8 +58,7 @@ namespace Mod12
             // Остановка на 3 с
             Thread.Sleep(3000);
         }
-
-        public class User
+      public class User
         {
             public string Login { get; set; }
             public string Name { get; set; }
